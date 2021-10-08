@@ -1,8 +1,9 @@
 <img src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Akshat%20Rastogi%20(13).png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatrastogi-1nc0re&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatrastogi-1nc0re&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> 
+  <img src="https://komarev.com/ghpvc/?username=akshatrastogi-1nc0re&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=akshatrastogi-1nc0re&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
+
 
 ## Hello, I'm <a href="https://akshatrastogi.in" target="_blank">Akshat Rastogi</a>!
 
