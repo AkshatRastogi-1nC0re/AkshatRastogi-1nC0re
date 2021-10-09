@@ -46,9 +46,9 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
     <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
         <img width=150 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/willowood.gif" />
     </a>
-    <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
+<!--     <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
         <img width=150 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/wns.gif" />
-    </a>
+    </a> -->
 
 </p>
 
