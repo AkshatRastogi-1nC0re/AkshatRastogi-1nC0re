@@ -53,7 +53,7 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/s3065non0v0aqxfotu7mb8hh0)
+[![Spotify](https://akshat-rastogi-1n-c0re.vercel.app/api/spotify)](https://open.spotify.com/user/akshat-rastogi-1n-c0re)
 
 ### GITHUB STATS 
 
