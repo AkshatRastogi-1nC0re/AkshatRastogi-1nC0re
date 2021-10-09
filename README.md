@@ -35,7 +35,7 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
         <img width=150 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/bennetthubfinal.gif" />
     </a>
     <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
-        <img width=150 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/orev.gif" />
+        <img width=150 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/orevfinalfinal.gif" />
     </a>
     <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
         <img width=150 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/supply.gif" />
