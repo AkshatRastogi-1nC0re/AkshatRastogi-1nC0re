@@ -53,7 +53,7 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 
 ### Now Playing 🎧
 
-[![Spotify](https://akshat-rastogi-1n-c0re.vercel.app/api/spotify)](https://open.spotify.com/user/akshat-rastogi-1n-c0re)
+[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/akshat-rastogi-1n-c0re)
 
 ### GITHUB STATS 
 
