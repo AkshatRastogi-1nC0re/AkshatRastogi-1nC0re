@@ -14,10 +14,6 @@
  -->
 <img align="left" width="300" height="300" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Untitled%20design%20(44).png"/>
 
-<!-- ### I'm [Dani Akash][homepage]
-
-A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️ -->
- 
 ### I'm <a href="https://akshatrastogi.in" target="_blank">Akshat Rastogi</a>!
 
 Currently pursuing my bachelor's degree majoring in computer science with specialization in Artificial Intelligence and Machine Learning from [Bennett University](https://bennett.edu.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
@@ -50,6 +46,8 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
     </a>
 
 </p>
+
+<img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/muzikak.png"/>
 
 ### Now Playing 🎧
 
