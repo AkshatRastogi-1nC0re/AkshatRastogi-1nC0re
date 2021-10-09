@@ -13,6 +13,12 @@
 [![AppStore Badge](https://img.shields.io/badge/-AppStore-050a30?style=flat-square&logo=apple&logoColor=white&link=https://apps.apple.com/in/developer/akshat-rastogi/id1567054229)](https://apps.apple.com/in/developer/akshat-rastogi/id1567054229)
 <!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=facebook&logoColor=050a30&link=https://fb.com/programmarakshat)](https://fb.com/programmarakshat)
  -->
-## Hello, I'm <a href="https://akshatrastogi.in" target="_blank">Akshat Rastogi</a>!
+<img align="left" width="225" height="225" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Untitled%20design%20(44).png"/>
+
+<!-- ### I'm [Dani Akash][homepage]
+
+A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️ -->
+ 
+### I'm <a href="https://akshatrastogi.in" target="_blank">Akshat Rastogi</a>!
 
 I am Akshat Rastogi, currently pursuing my bachelor's degree majoring in computer science with specialization in Artificial Intelligence and Machine Learning from [Bennett University](https://bennett.edu.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
