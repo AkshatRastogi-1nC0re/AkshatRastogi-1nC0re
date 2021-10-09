@@ -11,6 +11,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://akshatrastogi.in/#/)](https://akshatrastogi.in/#/)
 [![PlayStore Badge](https://img.shields.io/badge/-PlayStore-5ce1e6?style=flat-square&logo=android&logoColor=050a30&link=https://play.google.com/store/apps/dev?id=5084268189196100617)](https://play.google.com/store/apps/dev?id=5084268189196100617)
 [![AppStore Badge](https://img.shields.io/badge/-AppStore-050a30?style=flat-square&logo=apple&logoColor=white&link=https://apps.apple.com/in/developer/akshat-rastogi/id1567054229)](https://apps.apple.com/in/developer/akshat-rastogi/id1567054229)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=facebook&logoColor=050a30&link=https://fb.com/programmarakshat)](https://fb.com/programmarakshat)
 
 ## Hello, I'm <a href="https://akshatrastogi.in" target="_blank">Akshat Rastogi</a>!
 
