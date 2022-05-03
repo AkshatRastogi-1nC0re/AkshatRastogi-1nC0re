@@ -51,25 +51,12 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 </p>
 
 <p style="display:flex">
-    <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
-        <img width=132 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/bennetthubfinal.gif" />
+    <a href="https://adminpanel-190b8.web.app/">
+        <img width=405 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/AdminPortalGIF.gif" />
     </a>
-    <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
-        <img width=132 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/orevfinalfinal.gif" />
+    <a href="https://bennettprojectarchive.web.app/#/e">
+        <img width=405 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/BennettProjectGalleryGIF.gif" />
     </a>
-    <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
-        <img width=132 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/supply19final.gif" />
-    </a>
-    <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
-        <img width=132 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/panihrfinal.gif" />
-    </a>
-    <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
-        <img width=132 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/willowood.gif" />
-    </a>
-    <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
-        <img width=132 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/wns.gif" />
-    </a>
-
 </p>
 
 <img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/muzikak.png"/>
