@@ -1,30 +1,25 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
-name: Generate Snake
+name: Generate Datas
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.4
-      
-      - name: Generate Snake
-        uses: Platane/snk@master
+      # Snake Animation
+      - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: QUZIHANWU
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
+          github_user_name: Prg-maker
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          branch: main
-          message: 'Generate Contribution Snake'
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
