@@ -90,4 +90,5 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
   <img src="https://github-profile-trophy.vercel.app/?username=AkshatRastogi-1nC0re&column=8&theme=onedark" />
 </div>
 <br/>
+
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
