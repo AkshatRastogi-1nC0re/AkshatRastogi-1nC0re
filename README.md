@@ -81,8 +81,11 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 
   <hr/>
 
-  <div>
+<!--   <div>
     <a href="#"><img alt="Akshat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AkshatRastogi-1nC0re&custom_title=Akshat%20Rastogi's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div>  -->
+   <div>
+    <a href="#"><img alt="Akshat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRastogi-1nC0re&theme=react-dark" /></a>
   <div> 
 </div>
    
