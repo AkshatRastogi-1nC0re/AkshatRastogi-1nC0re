@@ -16,7 +16,7 @@
 
 ### I'm <a href="https://akshatrastogi.in" target="_blank">Akshat Rastogi</a>!
 
-Currently working as an LLM Data Scientist at [Turing](https://turing.com/).  I am a AI enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
+Currently working as a Coding Team Lead at [Scale AI](https://scale.com/).  I am a AI enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 ## LANGUAGES & TOOLS
 
